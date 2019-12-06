@@ -1,6 +1,6 @@
-###### 1. What *feature, bug, or debt* does the PR address? Please describe your solution.
+##### What *feature, bug, or debt* does the PR address? Please describe your solution.
 
-###### 2. What resources, components and/or dependencies are created or affected? 
+##### What resources, components and/or dependencies are created or affected? 
 
 ### Quality Checklist
 - [ ] I have performed a self-review of my own code.
