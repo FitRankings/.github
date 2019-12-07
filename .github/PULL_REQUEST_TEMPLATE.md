@@ -4,7 +4,7 @@
 ___
 #### Quality Checklist
 - [ ] I have performed a self-review of my own code.
-- [ ] I have commented my code in [this style](https://www.python.org/dev/peps/pep-0008/#comments), particularly in hard-to-understand areas.
+- [ ] I have documented my code in [this format](https://realpython.com/documenting-python-code/), particularly in hard-to-understand areas.
 - [ ] I have completed a successful build in my development environment.
 
 #### Security Checklist
