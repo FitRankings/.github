@@ -1,6 +1,9 @@
 #### What feature, bug, or debt does the PR address? Please describe your solution.
+>
 
 #### What resources, components and/or dependencies are created or affected? 
+>
+
 ___
 #### Quality Checklist
 - [ ] I have performed a self-review of my own code.
@@ -14,4 +17,4 @@ ___
 - [ ] Sensitive data has been identified and is being protected properly.
 ___
 #### Deployment
-Describe any non-normal steps required to deploy the PR.
+Describe any abnormal steps required to deploy the PR.
